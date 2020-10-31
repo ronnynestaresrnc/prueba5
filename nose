@@ -1,7 +1,7 @@
-ssfsecho "# prueba5" >> README.md 
+> README.md 
 git init 
 git agregar README.md 
 git commit -m "primer compromiso" 
 git branch -M main 
 git remote agregar origen https://github.com/jesusrc25/prueba5.git
- git push - u origen principal
+ ssssssjjjj push - u origen principal
